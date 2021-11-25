@@ -1,0 +1,101 @@
+@charset "utf-8";
+
+html {
+  height: 100%;
+  width: 100%;
+
+}
+
+.body100 {
+  width: 80%;
+  margin: 0 auto;
+  text-align :center;
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.top {
+width: 80%;
+margin: 0 auto;
+}
+
+
+.air  {
+  width: 100%;
+  height: 3em;
+  background-color: black;
+}
+img {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  width: 100%;
+  text-align: center;
+}
+
+h2 {
+  color: red;
+  font-size: 1.1em;
+  text-align: center;
+  display: block;
+}
+
+h3 {
+  color: blue;
+  display: block;
+}
+
+h4 {
+  margin-top: 1em;
+  font-size: 0.6em;
+  display: block;
+}
+
+h5 {
+  display: block;
+  margin-top: 1.5em ;
+}
+
+h6 {
+  font-size: 2em;
+  font-weight: bold;
+  text-align: center;
+}
+p{
+  text-align: center;
+  margin: 0 auto;
+}
+
+.text {
+  margin: 0 auto;
+  width:60%;
+  line-height: 2em;
+  text-align: center;
+  
+}
+.text p {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.text p img {
+  width: 100%;
+  height: auto;
+
+}
+
+.forms{
+  margin-bottom: 2em;
+  text-align: center;
+  margin-top: 1.5em;
+}
+
+.forms p {
+  margin-top: 1em;
+  margin: 0 auto;
+  text-align: center;
+}
+.images {
+  margin: 0 auto;
+  text-align: center;
+  width: 80%;
+}
